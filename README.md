@@ -12,7 +12,7 @@ A modern, full-stack MERN application designed to help job seekers organize, tra
 
 ## 🔗 Links
 intern-track-blond.vercel.app
-- **Live Demo**: [intern-track-blond.vercel.app]
+- **Live Demo**: [[intern-track-blond.vercel.app](https://intern-track-blond.vercel.app/)]
 - **GitHub Repository**: [https://github.com/NagaTejaSriCore/InternTrack](https://github.com/NagaTejaSriCore/InternTrack)
 
 ---
